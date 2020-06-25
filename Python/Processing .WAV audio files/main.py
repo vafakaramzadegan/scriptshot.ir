@@ -1,3 +1,5 @@
+# Tutorial Video available on: https://www.aparat.com/v/wOxQg
+
 from pyaudio import PyAudio
 import struct
 import math
