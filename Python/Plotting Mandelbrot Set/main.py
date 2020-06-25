@@ -1,3 +1,5 @@
+# Tutorial Video available on: https://www.aparat.com/v/lmnsc
+
 import tkinter as tk
 from HSV import HSV_2_RGB
 
