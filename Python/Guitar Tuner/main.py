@@ -1,3 +1,5 @@
+# Tutorial Video available on: https://www.aparat.com/v/yJRF6
+
 import tkinter as tk
 import crepe
 import pyaudio
