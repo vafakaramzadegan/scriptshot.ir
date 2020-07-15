@@ -1,3 +1,5 @@
+# Tutorial Video available on: https://www.aparat.com/v/G0WIe
+
 import pygame
 from functions import functions
 import os
