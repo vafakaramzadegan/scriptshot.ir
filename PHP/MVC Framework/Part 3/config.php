@@ -18,5 +18,5 @@ define('DATABASE_SETTINGS', array(
     'host' => 'localhost',
     'user' => 'root',
     'password' => '',
-    'database' => 'sampleDB'
+    'database' => ''
 ));
