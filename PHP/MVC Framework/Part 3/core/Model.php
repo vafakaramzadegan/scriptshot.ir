@@ -29,7 +29,7 @@ class Model{
         return $fields;
     }
 
-    public function query(){
+    public static function query(){
         return new static;
     }
 
