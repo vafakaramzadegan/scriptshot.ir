@@ -1,0 +1,5 @@
+ARG_ENABLE("scriptshot", "Scriptshot support", "no");
+
+if (PHP_SCRIPTSHOT == "yes") {
+	EXTENSION("scriptshot", "scriptshot.c");
+}
