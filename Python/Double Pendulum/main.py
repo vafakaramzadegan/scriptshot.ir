@@ -1,5 +1,3 @@
-# Tutorial Video available on: https://www.aparat.com/v/y6HuR
-
 import tkinter as tk
 import math
 
