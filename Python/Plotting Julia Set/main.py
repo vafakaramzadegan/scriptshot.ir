@@ -1,5 +1,3 @@
-## Tutorial Video available on: https://www.aparat.com/v/brqn5
-
 import tkinter as tk
 from HSV import HSV_2_RGB
 
