@@ -1,7 +1,5 @@
 <?php
 
-// Tutorial Video available on: https://www.aparat.com/v/uAswt
-
 require "Router.php";
 
 $router = new Router();
