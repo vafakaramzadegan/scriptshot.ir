@@ -1,5 +1,3 @@
-# Tutorial Video available on: https://www.aparat.com/v/8Yjwc
-
 import tkinter as tk
 import random
 
