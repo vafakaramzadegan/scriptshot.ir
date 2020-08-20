@@ -1,7 +1,5 @@
 <?php
 
-// Tutorial Video available on: https://www.aparat.com/v/8QKu1
-
 $width = 600;
 $height = 600;
 
