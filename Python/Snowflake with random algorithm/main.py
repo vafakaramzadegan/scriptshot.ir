@@ -16,7 +16,7 @@ import math
 width = 600
 height = 600
 
-particle_radius = 5
+particle_radius = 10
 particle_range_of_motion = 10
 snowflake_sides = 6
 
@@ -32,10 +32,10 @@ class Particle:
         self.pos.x -= 1
         self.pos.y += random.randint(-particle_range_of_motion, particle_range_of_motion)
 
-        if self.pos.heading() > 45:
+        if self.pos.heading() < -45:
             self.pos.y += particle_range_of_motion
 
-        if self.pos.heading() < 0:
+        if self.pos.heading() > 0:
             self.pos.y -= particle_range_of_motion
 
         for p in self.app.points[:-1]:
@@ -71,8 +71,6 @@ def draw(app):
             p.draw()
             app.canvas.flip('y')
             p.draw()
-
-
 
 
 EasyDraw(width = width,
