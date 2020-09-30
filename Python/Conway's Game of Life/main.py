@@ -1,3 +1,11 @@
+# This tutorial requires EasyDraw library which can be
+# installed with pip:
+#
+# $ python3 -m pip install EasyDraw
+#
+# more information available on:
+# https://github.com/vafakaramzadegan/EasyDraw
+
 from EasyDraw import EasyDraw
 import random
 
