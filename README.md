@@ -1,7 +1,7 @@
 ![Scriptshot Logo](https://github.com/vafakaramzadegan/scriptshot.ir/blob/master/scriptshot.jpg)
 
 # scriptshot.ir
-Coding tutorial videos on subjects including: Algorithm, Math, Machine Learning and Artificial Intelligence
+Coding tutorial videos on subjects including: Algorithms, Math, Machine Learning and Artificial Intelligence
 
 All the videos are available on:
 - Aparat: [@scriptshot.ir](https://aparat.com/scriptshot.ir)
